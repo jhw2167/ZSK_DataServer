@@ -12,3 +12,4 @@
 #include "BaseCode/pch/stdafx.h"
 #include "Core/TCP.h"
 #include "Core/UDP.h"
+#include "ServerObjects.h"
