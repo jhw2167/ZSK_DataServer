@@ -1,0 +1,8 @@
+ZSK_DataServer.vcxproj
+ZSK_DataServer.vcxproj.filters
+ZSK_DataServer.vcxproj.user
+Core/
+BaseCode/
+dlls/
+Debug/
+README.MD
